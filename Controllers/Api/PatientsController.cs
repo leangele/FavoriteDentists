@@ -18,6 +18,7 @@ namespace FavoriteDentists.Controllers.Api
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: api/Patients
+        [Authorize]
         public IQueryable<Patient> GetPatients()
         {
             return db.Patients;

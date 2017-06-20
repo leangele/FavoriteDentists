@@ -76,3 +76,5 @@ c:\users\blackdaemon\documents\visual studio 2015\Projects\FavoriteDentists\Favo
 c:\users\blackdaemon\documents\visual studio 2015\Projects\FavoriteDentists\FavoriteDentists\obj\Debug\FavoriteDentists.Migrations.InitialCreate.resources
 c:\users\blackdaemon\documents\visual studio 2015\Projects\FavoriteDentists\FavoriteDentists\obj\Debug\FavoriteDentists.csproj.GenerateResource.Cache
 c:\users\blackdaemon\documents\visual studio 2015\Projects\FavoriteDentists\FavoriteDentists\obj\Debug\FavoriteDentists.Migrations.CreationTablesPatientTreatment.resources
+C:\Users\Angelo\Documents\GitHub\FavoriteDentists\obj\Debug\FavoriteDentists.dll
+C:\Users\Angelo\Documents\GitHub\FavoriteDentists\obj\Debug\FavoriteDentists.pdb
