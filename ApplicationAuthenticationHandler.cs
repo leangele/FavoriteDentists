@@ -75,6 +75,6 @@ namespace FavoriteDentists
                 return response;
             });
         }
-        http://www.c-sharpcorner.com/UploadFile/013102/mvc-web-api-authorization-authentication/
+        //http://www.c-sharpcorner.com/UploadFile/013102/mvc-web-api-authorization-authentication/
     }
 }
